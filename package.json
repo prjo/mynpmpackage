@@ -1,0 +1,8 @@
+{
+  "name": "@prjo/mynpmpackage",
+  "version": "1.0.0",
+  "description": "print out version number",
+  "license": "MIT",
+  "repository": "prjo/mynpmpackage",
+  "main": "index.js"
+}
