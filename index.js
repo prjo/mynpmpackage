@@ -1,3 +1,3 @@
 module.exports = function printnumber() {
-  return "2";
+  return "3";
 };
